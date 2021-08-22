@@ -4,3 +4,10 @@ body {
 p {
     font-size: 20px;
 }
+a:link, a:visited, a:active {
+	text-decoration: underline;
+	}
+a:hover {
+	background:blueviolet;
+	color: darkblue;
+	}
